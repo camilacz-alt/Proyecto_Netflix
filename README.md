@@ -56,8 +56,11 @@ Se crearon gráficos en Excel a partir de los resultados de las consultas. Algun
 - Gráfico de géneros más comunes en contenido clasificado como TV-MA.
 
 <p align="center">
-  <img src="ruta/a/la/grafica1.png" width="400">
-  <img src="ruta/a/la/grafica2.png" width="400">
+  <img src="Diapositiva4.PNG" width="400">
+  <img src="Diapositiva5.PNG" width="400">
+  <img src="Diapositiva6.PNG" width="400">
+  <img src="Diapositiva7.PNG" width="400">
+  <img src="Diapositiva8.PNG" width="400">
 </p>
 
 ---
